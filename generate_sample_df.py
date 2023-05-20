@@ -6,8 +6,6 @@
 # Created 2023-05-20 10:42
 #
 #
-# Copyright © 2023 Konrad <konrad.zdeb@me.com>
-#
 
 """
 Convenience script generating sample data using Faker and returning a
