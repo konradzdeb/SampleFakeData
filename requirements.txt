@@ -1,0 +1,3 @@
+# Generating sample data with faker
+pandas>=2
+faker>=18
